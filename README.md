@@ -1,2 +1,2 @@
-# Collage-Website
+# College-Website
 This is a college website.
